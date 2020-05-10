@@ -1,2 +1,2 @@
 # Mothers-Day-Grandma
-Mother's Day card for grandma
+To avoid mailing anything to my grandma and mom, I created custom ecards for them. Decided to make them myself because I'm locked inside with nothing else to do.
